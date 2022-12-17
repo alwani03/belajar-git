@@ -1,0 +1,8 @@
+#saya coba abaikan folder
+log/
+
+#saya juga coba abaikan semua file yang .backup
+*.backup
+
+#saya juga coba abaikan file ignore.txt
+ignore.txt
