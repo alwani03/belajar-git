@@ -8,3 +8,5 @@ Feature C
 Feature D
 
 Ubah file1 lalu commit
+
+change feature merge-squash first
